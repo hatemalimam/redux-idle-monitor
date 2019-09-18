@@ -1649,6 +1649,11 @@ iconv-lite@0.4.13:
   version "0.4.13"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.13.tgz#1f88aba4ab0b1508e8312acc39345f36e992e2f2"
 
+immutable@^4.0.0-rc.12:
+  version "4.0.0-rc.12"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0-rc.12.tgz#ca59a7e4c19ae8d9bf74a97bdf0f6e2f2a5d0217"
+  integrity sha512-0M2XxkZLx/mi3t8NVwIm1g8nHoEmM9p9UBl/G9k4+hm0kBgOVdMV/B3CY5dQ8qG8qc80NN4gDV4HQv6FTJ5q7A==
+
 indent-string@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/indent-string/-/indent-string-2.1.0.tgz#8e2d48348742121b4a8218b7a137e9a52049dc80"
@@ -2930,12 +2935,6 @@ redux-middleware@*:
     redux "^3.5.2"
     redux-actions "^0.9.1"
     redux-blueprint "*"
-
-redux-mux@*:
-  version "0.1.15"
-  resolved "https://registry.yarnpkg.com/redux-mux/-/redux-mux-0.1.15.tgz#fd523fa91d95d1b95c0c16d73391fd37153af014"
-  dependencies:
-    chai "^3.5.0"
 
 redux@^3.5.2:
   version "3.6.0"
